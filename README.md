@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teppeiKiyoshi, an aspiring Full Stack Web Developer. 
-- 🌱 I’m currently taking Bs Information Technology under the track of Web and Mobile Technologies.
+- 🌱 I’m currently taking BSc Information Technology under the track of Web and Mobile Technologies.
 - 💞️ I’m looking to collaborate on different applications and systems that will also contribute to improving my skills and knowledge.
 - 📫 You can reach me at martinemanuelleo@gmail.com and surely I will enthusiastically answer your queries or suggestions.
 
